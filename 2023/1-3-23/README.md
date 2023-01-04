@@ -7,7 +7,7 @@ The dataset for the first week of the year is : Bring Your Own. With that, I wil
 
 ## This Week: Loading in Data with Python and R 
 
-This week I will be starting off light challenging myself to refresh on how to load in csv data using both R and Python. 
+This week I will be starting off light challenging myself to refresh on how to load in csv and start to explore (at a high level) data using both R and Python. 
 
 ### Python
 
